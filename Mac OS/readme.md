@@ -6,17 +6,17 @@ una serie de atributos y así podamos instalar MacOS. Este repositorio deje 3 sc
 
 ### Para equipos con AMD
 Para solucionar este **error** en los ordenadores de amd usaremos el siguiente script
-```PowerShell
+```cmd
 Instalar_Mac_Amd.cmd
 ```
 
 ### Para equipo Intel Moderno
 Para solucionar este **error** en los ordenadores de intel, con versión de vbox superior a la 4 usaremos el siguiente script
-```PowerShell
+```cmd
 Instalar_Mac_Intel+Amd_Nuevas.cmd
 ```
 ### Para equipo Intel Antiguo
 Para solucionar este **error** en los ordenadores de intel, con versión de vbox inferior a la 4 usaremos el siguiente script
-```PowerShell
+```cmd
 Instalar_Mac_Intel+Amd_Viejas.cmd
 ```
