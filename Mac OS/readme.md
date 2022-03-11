@@ -1,5 +1,6 @@
 # Instalación de MAC en VirtualBox
 ## Autor: Jose Conde 
+### Puedes utilizar ambos scripts solo afectan a la máquina virtual
 
 Cuando intentamos instalar MAC en virtualbox, no consigue arrancar la instalación, para solucionar esto, debemos ejecutar una serie de comandos, para modificar
 una serie de atributos y así podamos instalar MacOS. Este repositorio deje 3 scripts, diferentes, que son: 
