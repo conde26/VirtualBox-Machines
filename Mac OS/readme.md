@@ -6,7 +6,7 @@ una serie de atributos y así podamos instalar MacOS. Este repositorio deje 3 sc
 
 ### Para equipos con AMD
 Para solucionar este **error** en los ordenadores de amd usaremos el siguiente script
-```cmd
+```batch
 Instalar_Mac_Amd.cmd
 ```
 
